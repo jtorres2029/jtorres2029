@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Joseph Torres]  
+# 👋 Hi, I'm Joseph Torres  
 ### 🧪 SDET | QA Automation Engineer | Test Automation Strategist
 
 🚀 I'm a Software Development Engineer in Test (SDET) with a passion for building robust, scalable, and maintainable automated testing frameworks. I specialize in test automation for web and API layers using tools like Selenium, Cypress, Playwright, Postman, and REST Assured.
